@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-## This is a markdowm file
+## Dedicated ReadMe file for Coursera Projectt
